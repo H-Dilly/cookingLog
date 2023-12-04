@@ -6,6 +6,4 @@ Basic Functions:
     Append log to files for repeated recipies.
     Retrieve old logs for easy review.
 
-Extra functions:
-    Search for recipies
     
